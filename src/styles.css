@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+}
+
+#nav {
+    min-height: 10%;
+    background-color: red;
+}
+
+#repo-page {
+    background-color: blue;
+    min-height: 90%;
+}
