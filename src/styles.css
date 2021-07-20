@@ -3,11 +3,39 @@ html, body{
 }
 
 #nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: dashed lightblue;
     min-height: 10%;
-    background-color: red;
 }
 
-#repo-page {
-    background-color: blue;
+#repo-details {
+    width: max-content;
+    text-align: center;
+}
+
+#repo-homepage {
     min-height: 90%;
+    width: 100%;
+}
+
+#repo-btn {
+    position: fixed;
+    top: 10px;
+    right: 50px;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #34d997;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+#repo-btn:hover {
+    background: #22B87C;
+    text-decoration: none;
 }

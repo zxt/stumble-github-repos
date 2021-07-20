@@ -1,3 +1,3 @@
 # Stumble GitHub Repos
 
-Randomly browse, StumbleUpon style, through websites that are set as the homepage of GitHub repositories!
+Randomly browse, StumbleUpon style, through GitHub repos!
